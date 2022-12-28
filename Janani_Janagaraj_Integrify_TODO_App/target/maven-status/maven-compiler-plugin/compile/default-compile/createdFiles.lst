@@ -1,0 +1,17 @@
+com\assignment\todolist\model\TodoModel.class
+com\assignment\todolist\security\CustomAuthenticationProvider.class
+com\assignment\todolist\entity\Todo.class
+com\assignment\todolist\model\UserModel.class
+com\assignment\todolist\config\MySecurityConfig.class
+com\assignment\todolist\entity\User.class
+com\assignment\todolist\repository\TodoRepository.class
+com\assignment\todolist\repository\UserRepository.class
+com\assignment\todolist\service\UserService.class
+com\assignment\todolist\security\CustomUserDetailsService.class
+com\assignment\todolist\service\TodoService.class
+com\assignment\todolist\controller\HomeController.class
+com\assignment\todolist\service\TodoServiceImpl.class
+com\assignment\todolist\entity\Todo$ChoiceStatus.class
+com\assignment\todolist\service\UserServiceImp.class
+com\assignment\todolist\TodolistApplication.class
+com\assignment\todolist\model\JwtResponse.class
